@@ -110,17 +110,17 @@ plt.suptitle('Pairplot of Selected Numerical Columns', y=1.02)
 plt.show()
 ```
 ## OUTPUT:
-#### df.head()
+### df.head()
 ![image](https://github.com/user-attachments/assets/015fed6d-cd94-4266-8e0a-ab6dfebbdb6a)
-#### df.info()
+### df.info()
 ![image](https://github.com/user-attachments/assets/20d342ba-9ab9-404f-9c19-05b22bb3cec7)
-#### df.isnull().sum()
+### df.isnull().sum()
 ![image](https://github.com/user-attachments/assets/627495db-6f75-497f-9e3d-0a21d5880a7e)
-#### numerical_columns
+### Numerical_columns
 ![image](https://github.com/user-attachments/assets/efa0d0d5-6a86-4df7-89d1-260127d47c3a)
-#### Afetr filling NULL values- df.isnull().sum()
+### Afetr filling NULL values- df.isnull().sum()
 ![image](https://github.com/user-attachments/assets/29cc3dc3-16f4-43d0-9a3b-762ed540300c) 
-#### Boxplot to identify outliers
+### Boxplot to identify outliers
 ![image](https://github.com/user-attachments/assets/681c0685-2861-4571-90f2-1e2618e1c44a) ![image](https://github.com/user-attachments/assets/a7f8d166-543b-4092-a9bc-f8a4b44ba0f5) 
 ![image](https://github.com/user-attachments/assets/58814432-4ac6-4df2-894b-a72ce7434fb5)  ![image](https://github.com/user-attachments/assets/39d5f087-a6e6-4f5b-8288-b4b31dda6082) 
 ![image](https://github.com/user-attachments/assets/da663f5d-5d6e-4818-9c27-8e43bf17f1be)  ![image](https://github.com/user-attachments/assets/8dbd3736-c6dd-4fda-b592-c0331c84bc07)  
@@ -129,21 +129,21 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/0040678a-5c06-4f55-942d-d45fd40d8713)   ![image](https://github.com/user-attachments/assets/a845e2f5-26c9-4aa3-8249-af2cdde53528) 
 ![image](https://github.com/user-attachments/assets/76299585-d1dd-404f-a64b-bb5f9fa3a9a5)    ![image](https://github.com/user-attachments/assets/e568586a-5fab-4d85-9580-ec3e3db33552) 
 ![image](https://github.com/user-attachments/assets/0b7be52b-3bf1-4458-89de-272fbad9df7b)    ![image](https://github.com/user-attachments/assets/4c996610-947e-44da-ab71-cb4cd8dc1b50)
-#### outliers removed
+### outliers removed
 ![image](https://github.com/user-attachments/assets/de502440-3ff8-4ced-b86c-10a720df21e1)
-#### Value counts for Country and Status
+### Value counts for Country and Status
 ![image](https://github.com/user-attachments/assets/bfcbd446-b3b9-48a3-aba9-6d463bff3cc7)
-#### Scatter Plot: Life expectancy vs GDP
+### Scatter Plot: Life expectancy vs GDP
 ![image](https://github.com/user-attachments/assets/b7270308-91d4-4521-89b0-7b8636c69f17)
-#### Count Plot: Year vs Status
+### Count Plot: Year vs Status
 ![image](https://github.com/user-attachments/assets/3141ef02-84d7-4dec-968d-706f45f96217)
-#### Count Plot: Life Expectancy by Year and Status
+### Count Plot: Life Expectancy by Year and Status
 ![image](https://github.com/user-attachments/assets/0b44ef57-2a39-4110-b7f2-99c8eefc1225)
-#### cleaned data
+### cleaned data
 ![image](https://github.com/user-attachments/assets/372f11e4-ab45-4069-abcf-bf5048cb3ec9)
-#### Correlation Heatmap
+### Correlation Heatmap
 ![image](https://github.com/user-attachments/assets/68381809-47a4-445d-996f-a689b3908559)
-#### Pairplot of Selected Numerical Columns
+### Pairplot of Selected Numerical Columns
 ![image](https://github.com/user-attachments/assets/8d32775a-850b-4e3f-a942-954f41ad83ec)
 ![image](https://github.com/user-attachments/assets/38e96f83-f430-4ca1-acd4-0e42d0303f06)
 
